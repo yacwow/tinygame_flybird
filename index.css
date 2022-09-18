@@ -79,7 +79,7 @@
     background-position: bottom;
 }
 .pipe.down{
-    background: url(./img/pipeup.png);
+    background: url(./img/pipeUp.png);
     bottom: 112px;
     background-position: top;
 }
