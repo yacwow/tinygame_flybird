@@ -33,7 +33,7 @@
 .sky{
     width: 200%;
     height:100%;
-    background: url(./img/sky.png);
+    background: url("./img/sky.png");
     position:absolute;
     left: 0px;
     top: 0px;
@@ -41,14 +41,14 @@
 .land{
     width: 200%;
     height: 112px;
-    background:url(./img/land.png);
+    background:url("./img/land.png");
     position: absolute;
     bottom:0px;
     left:0px;
 
 }
 .bird{
-    background: url(./img/bird.png);
+    background: url("./img/bird.png");
     width: 33px;
     height: 26px;
     position:absolute;
@@ -79,7 +79,7 @@
     background-position: bottom;
 }
 .pipe.down{
-    background: url(./img/pipeUp.png);
+    background: url("./img/pipeup.png");
     bottom: 112px;
     background-position: top;
 }
